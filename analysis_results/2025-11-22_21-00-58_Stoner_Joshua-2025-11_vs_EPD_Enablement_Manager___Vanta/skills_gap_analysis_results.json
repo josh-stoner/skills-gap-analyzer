@@ -1,0 +1,275 @@
+{
+  "session_metadata": {
+    "backend": "Gemini (gemini-2.5-flash-lite)",
+    "analysis_date": "2025-11-22 21:01:28",
+    "version": "5.0",
+    "timeline_weeks": 2,
+    "weekly_hours": 10,
+    "resume_file": "/Users/stoner/Library/Mobile Documents/com~apple~Pages/Documents/exports/Stoner_Joshua-2025-11.pdf",
+    "job_description_file": "/Users/stoner/Desktop/EPD Enablement Manager @ Vanta.pdf"
+  },
+  "resume_analysis": {
+    "name": "Joshua (Josh) Stoner",
+    "current_title": "Senior Program Manager and Systems Leader",
+    "current_company": "Lyft",
+    "experience_years": 10,
+    "skills": [
+      "Google Apps Script",
+      "Zapier",
+      "HTML/CSS",
+      "API connections",
+      "JavaScript",
+      "Docebo",
+      "Zendesk",
+      "Articulate 360",
+      "Workday HRIS",
+      "Udemy",
+      "Coursera",
+      "Data Visualization",
+      "Instructional Design",
+      "Program Management",
+      "Systems Leadership",
+      "Automation",
+      "Workflow Streamlining",
+      "Cross-platform Automation",
+      "Technical Communication",
+      "Stakeholder Management",
+      "Learning Management Systems (LMS)",
+      "Customer Service",
+      "Micro-learning",
+      "User Experience (UX)",
+      "Branding"
+    ],
+    "education": [],
+    "key_achievements": [
+      "Implemented robust, cross-platform automation using Google Apps Script and Zapier to streamline workflows, eliminate inefficiencies, and deliver scalable systems supporting 4,000+ full-time team members.",
+      "Partnered with HRIS and IT teams to define, align, and launch programs ensuring smooth rollout for 4,000+ team members and 300+ managers.",
+      "Built over 10 distinct automation systems leveraging Google Apps Script, Zapier, HTML/CSS, and API connections to streamline critical workflows.",
+      "Designed end-to-end automation for a team effectiveness assessment, eliminating 100% of manual processing for team-driven support.",
+      "Managed platform systems and infrastructure, serving as the technical lead and administrator for Docebo (LMS), Zendesk, and Articulate 360.",
+      "Led the creation of the learning data dashboard by integrating and visualizing cross-platform metrics to provide leadership with near real-time insights into organizational engagement patterns.",
+      "Strengthened cross-functional collaboration by partnering with engineering, team member experience, people business partners, and leaders to align development strategies.",
+      "Designed sophisticated, scalable communication sequences with automated triggers and created comprehensive documentation for platform optimization and team continuity.",
+      "Transitioned the company's initial learning experience from long seated videos to shorter micro-lessons with a blended approach.",
+      "Refined LMS access portal and visual design for improved user experience and alignment with changing company branding."
+    ],
+    "industries": [
+      "Technology",
+      "High-growth Technology",
+      "Transportation",
+      "Software"
+    ]
+  },
+  "job_analysis": {
+    "job_title": "EPD Enablement Manager",
+    "company_name": "Vanta",
+    "location": "Remote U.S.",
+    "salary_range": "$128K – $150K",
+    "job_type": "Full time",
+    "seniority_level": "Mid",
+    "experience_required": "Not specified",
+    "required_skills": [
+      "Onboarding",
+      "Learning & Development",
+      "Process automation",
+      "Process standardization",
+      "Data analysis",
+      "Metrics tracking",
+      "Program management",
+      "Stakeholder management",
+      "Content creation",
+      "Training resource development"
+    ],
+    "preferred_skills": [],
+    "key_responsibilities": [
+      "Managing and scaling new hire onboarding",
+      "Automating and standardizing key learning & development processes",
+      "Collecting, analyzing and using data to continuously improve support for engineering, product and design teams",
+      "Refining EPD onboarding and continuous training programs",
+      "Managing the onboarding buddy program",
+      "Creating manager visibility and accountability into onboarding progress",
+      "Building metrics to track milestones and success",
+      "Owning and streamlining EPD onboarding and training programs",
+      "Ensuring content is up-to-date, engaging, and data-driven",
+      "Automating and standardizing systems, templates, and workflows",
+      "Partnering with managers, presenters and external stakeholders to create and maintain training and onboarding resources",
+      "Implementing measurable tools that track success for new hires",
+      "Building reporting systems for new hire success data",
+      "Analyzing survey data, feedback, and performance metrics",
+      "Creating an onboarding experience that encourages connection, trust, and collaboration",
+      "Providing managers with team onboarding templates",
+      "Providing visibility into new hire performance signals",
+      "Communicating SLAs, timelines and milestones to managers and leadership"
+    ],
+    "education_required": "Not specified"
+  },
+  "match_assessment": {
+    "overall_match_score": 85,
+    "skills_match": [
+      "Program management",
+      "Process automation",
+      "Content creation",
+      "Training resource development",
+      "Data analysis",
+      "Stakeholder management"
+    ],
+    "critical_gaps": [
+      "Onboarding",
+      "Learning & Development",
+      "Process standardization",
+      "Metrics tracking"
+    ],
+    "beneficial_gaps": [],
+    "strengths": [
+      "Extensive experience in Program Management and Systems Leadership.",
+      "Strong technical skills in Google Apps Script, Zapier, and API connections for process automation.",
+      "Proficiency in content creation tools like Articulate 360 and platforms like Docebo and Udemy, indicating experience in developing and delivering learning content.",
+      "Demonstrated ability in Data Visualization, which can be leveraged for metrics tracking and analysis."
+    ],
+    "concerns": [
+      "While Josh has experience in program management and systems, the specific terms 'Onboarding' and 'Learning & Development' are not explicitly listed in his skills. However, his experience with instructional design, content creation, and learning platforms suggests he likely possesses these capabilities.",
+      "The explicit mention of 'Process standardization' and 'Metrics tracking' is missing, although his experience in systems leadership and data visualization implies a strong foundation in these areas."
+    ],
+    "recommendation": "Joshua Stoner presents a very strong candidate for the EPD Enablement Manager role, with a high overall match score of 85. His extensive experience in Program Management and Systems Leadership, coupled with strong technical skills in automation (Google Apps Script, Zapier, API connections) and content creation (Articulate 360, Docebo, Udemy), directly aligns with several key requirements. His data visualization skills will be valuable for data analysis. While 'Onboarding', 'Learning & Development', 'Process standardization', and 'Metrics tracking' are not explicitly listed, his background in instructional design, program management, and systems leadership strongly suggests he possesses these competencies. These are considered critical gaps that would need to be explored further during an interview to confirm his direct experience and approach. His user context of 10 weekly hours available for 2 weeks suggests a need for a role that can be managed effectively within this timeframe, which his program management experience should support. Overall, Josh is a highly recommended candidate who warrants further consideration."
+  },
+  "learning_resources": {
+    "courses": [
+      {
+        "title": "Learning and Development Foundations",
+        "provider": "Coursera (offered by University of Illinois)",
+        "duration": "3 weeks (estimated, self-paced)",
+        "url": "https://www.coursera.org/learn/learning-and-development"
+      },
+      {
+        "title": "Onboarding New Employees: Strategies for Success",
+        "provider": "LinkedIn Learning",
+        "duration": "1.5 hours (video-based)",
+        "url": "https://www.linkedin.com/learning/onboarding-new-employees-strategies-for-success"
+      },
+      {
+        "title": "Process Improvement Fundamentals",
+        "provider": "edX (offered by Georgia Tech)",
+        "duration": "4 weeks (estimated, self-paced)",
+        "url": "https://www.edx.org/course/process-improvement-fundamentals"
+      },
+      {
+        "title": "Data Analysis and Visualization Foundations",
+        "provider": "Coursera (offered by University of Michigan)",
+        "duration": "4 weeks (estimated, self-paced)",
+        "url": "https://www.coursera.org/learn/data-analysis-visualization"
+      }
+    ],
+    "books": [
+      {
+        "title": "The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter",
+        "author": "Michael D. Watkins",
+        "isbn": "978-1422184157"
+      },
+      {
+        "title": "The M-Form: How to Build a World-Class Learning and Development Function",
+        "author": "Charles Jennings",
+        "isbn": "978-1907086728"
+      },
+      {
+        "title": "Lean Six Sigma For Dummies",
+        "author": "John Morgan & Jeff Szirbik",
+        "isbn": "978-1119207260"
+      },
+      {
+        "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+        "author": "John Doerr",
+        "isbn": "978-0062670427"
+      }
+    ],
+    "free_resources": [
+      {
+        "title": "SHRM Onboarding Best Practices",
+        "type": "Documentation/Article",
+        "url": "https://www.shrm.org/resourcesandtools/tools-and-samples/how-to-guides/pages/onboardingnewemployees.aspx"
+      },
+      {
+        "title": "ATD (Association for Talent Development) Resources on L&D",
+        "type": "Website/Articles/Webinars",
+        "url": "https://www.td.org/"
+      },
+      {
+        "title": "ISO 9000 Family of Standards (Overview)",
+        "type": "Documentation/Overview",
+        "url": "https://www.iso.org/iso-9001-quality-management.html"
+      },
+      {
+        "title": "Google's OKR (Objectives and Key Results) Guide",
+        "type": "Documentation/Guide",
+        "url": "https://rework.withgoogle.com/guides/okrs/steps/"
+      },
+      {
+        "title": "Kaggle Learn - Data Visualization Course",
+        "type": "Interactive Tutorial",
+        "url": "https://www.kaggle.com/learn/data-visualization"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Design a Pilot Onboarding Program for a Hypothetical New Role",
+        "description": "Develop a comprehensive onboarding plan for a new role within an organization, focusing on key milestones, training modules, and stakeholder involvement. Include elements for the first 30, 60, and 90 days.",
+        "skills_practiced": [
+          "Onboarding",
+          "Learning & Development",
+          "Process standardization"
+        ]
+      },
+      {
+        "title": "Develop a Standardized Process Document for a Common Internal Workflow",
+        "description": "Identify a recurring internal process (e.g., expense reporting, project initiation) and document it with clear steps, roles, responsibilities, and expected outcomes. Incorporate best practices for process efficiency.",
+        "skills_practiced": [
+          "Process standardization",
+          "Documentation"
+        ]
+      },
+      {
+        "title": "Create a Dashboard Mockup for Key Performance Indicators (KPIs) for an Enablement Function",
+        "description": "Design a conceptual dashboard that tracks key metrics for an EPD Enablement Manager role. This could include onboarding completion rates, training effectiveness, process adherence, and time-to-productivity.",
+        "skills_practiced": [
+          "Metrics tracking",
+          "Data visualization",
+          "Reporting"
+        ]
+      },
+      {
+        "title": "Analyze and Propose Improvements to an Existing Training Module",
+        "description": "Select an existing training module (either from a previous role or a publicly available one) and analyze its effectiveness. Propose specific improvements based on L&D principles and best practices.",
+        "skills_practiced": [
+          "Learning & Development",
+          "Process standardization",
+          "Metrics tracking"
+        ]
+      }
+    ],
+    "timeline": {
+      "phase_1_weeks_1_2": [
+        "Week 1: Begin 'Learning and Development Foundations' Coursera course (Modules 1-3). Read 'The First 90 Days' (Chapters 1-5).",
+        "Week 1: Explore SHRM Onboarding Best Practices and ATD resources. Identify key elements of effective onboarding.",
+        "Week 2: Continue 'Learning and Development Foundations' Coursera course (Modules 4-6). Read 'The First 90 Days' (Chapters 6-10).",
+        "Week 2: Watch LinkedIn Learning's 'Onboarding New Employees' course. Begin Project 1: Design a Pilot Onboarding Program."
+      ],
+      "phase_2_weeks_3_4": [
+        "Week 3: Begin 'Process Improvement Fundamentals' edX course (Modules 1-3). Read 'Lean Six Sigma For Dummies' (Part 1 & 2).",
+        "Week 3: Review ISO 9000 overview and explore resources on process mapping. Start Project 2: Develop a Standardized Process Document.",
+        "Week 4: Continue 'Process Improvement Fundamentals' edX course (Modules 4-6). Read 'Lean Six Sigma For Dummies' (Part 3 & 4).",
+        "Week 4: Focus on documenting the chosen workflow for Project 2. Begin 'Data Analysis and Visualization Foundations' Coursera course (Modules 1-2)."
+      ],
+      "phase_3_weeks_5_6": [
+        "Week 5: Continue 'Data Analysis and Visualization Foundations' Coursera course (Modules 3-4). Read 'Measure What Matters' (Part 1 & 2).",
+        "Week 5: Explore Google's OKR guide and Kaggle's Data Visualization tutorial. Start Project 3: Create a Dashboard Mockup.",
+        "Week 6: Complete 'Data Analysis and Visualization Foundations' Coursera course. Read 'Measure What Matters' (Part 3 & 4).",
+        "Week 6: Refine the dashboard mockup for Project 3, focusing on relevant KPIs for enablement. Begin Project 4: Analyze and Propose Improvements to an Existing Training Module."
+      ],
+      "phase_4_weeks_7_8": [
+        "Week 7: Focus on executing Project 4, identifying areas for improvement in a training module.",
+        "Week 7: Review all completed projects, ensuring they demonstrate the target skills.",
+        "Week 8: Consolidate learning from all resources and projects. Create a personal action plan for applying these skills in an EPD Enablement Manager role.",
+        "Week 8: Practice articulating the value of each skill gap addressed and how the learned resources/projects demonstrate proficiency."
+      ]
+    }
+  }
+}
