@@ -1,4 +1,4 @@
-# Skills Gap Analyzer - Refactored Version
+# Skills Gap Analyzer
 
 ## 🚀 Overview
 
