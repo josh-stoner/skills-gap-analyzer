@@ -3,7 +3,7 @@
 
 ## 🚀 Overview
 
-Professional, production-ready AI-powered skills gap analysis tool that compares resumes with job descriptions and provides personalized upskilling recommendations.
+AI-powered skills gap analysis tool that compares resumes with job descriptions and provides personalized upskilling recommendations.
 
 ## 📁 Project Structure
 
