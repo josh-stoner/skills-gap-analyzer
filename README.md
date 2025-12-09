@@ -2,8 +2,9 @@
 —————————————————————————————————
 
 ## 🚀 Overview
-
 AI-powered skills gap analysis tool that compares resumes with job descriptions and provides personalized upskilling recommendations.
+
+Capstone for Kaggle x Google AI-intensive: https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1763390780647
 
 ## 📁 Project Structure
 
@@ -271,10 +272,3 @@ Refactored from the original Skills Gap Analyzer with:
 - ✅ CLI automation support
 - ✅ Production-ready architecture
 
----
-
-**Version**: 5.0 (Refactored)  
-**Status**: Production Ready ✅  
-**Last Updated**: November 2025
-
-For detailed refactoring notes, see `REFACTORING_SUMMARY.txt`
